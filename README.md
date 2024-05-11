@@ -21,7 +21,7 @@ The project is divided into three major stages:
 
 - Pipeline automation using Airflow and Docker.
 
-## - About Arnold & Son [website](https://www.arnoldandson.com)
+## - About Arnold & Son [(website link)](https://www.arnoldandson.com)
 
 The company was first founded during the 18th century by British watchmaker John Arnold who became renowned for his work on marine chronometers. Today, the new Arnold & Son watch collections continue his legacy with high-precision movements, premium materials and exclusive limited edition runs. 
 
